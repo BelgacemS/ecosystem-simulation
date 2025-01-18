@@ -1,0 +1,15 @@
+# Fichiers compilés
+bin/
+build/
+*.o
+*.out
+
+# Fichiers générés par l'exécution
+data/population_stats.txt
+data/evolution_populations.png
+
+# Fichiers système
+.DS_Store
+**/.DS_Store
+.vscode/
+*.dSYM/
